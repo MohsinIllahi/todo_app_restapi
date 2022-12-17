@@ -8,6 +8,9 @@ The project is based on CRUD where we can create todo list ,add todo, delete tod
 
 Here are some ScreenShots From the application
 
+## Application Preview
+
+<img src="https://user-images.githubusercontent.com/49728395/208234646-a45e3f76-971b-4a9b-a016-8ba350e42bc9.png" width=80% height=50%>
 ## Todo Application List
 
 <img src="https://user-images.githubusercontent.com/49728395/208229606-28bd64f3-d16c-4343-8d28-1b6512ffe9f0.png" width=30% height=30%>
