@@ -1,16 +1,18 @@
 # todo_app_restapi
 
-A new Flutter project.
+To Do Application in flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project is based on CRUD where we can create todo list ,add todo, delete todo , update todo by implementing RestApi 
 
-A few resources to get you started if this is your first Flutter project:
+Here are some ScreenShots From the application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![todo list](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png)
+
+![add todo](https://user-images.githubusercontent.com/49728395/208227170-9480f949-1caa-45b1-97d8-de23f11874ff.png)
+
+![popup button](https://user-images.githubusercontent.com/49728395/208227178-8ba5f6aa-4568-42ba-88cd-318a6cbd3d28.png)
+
+![edit todo](https://user-images.githubusercontent.com/49728395/208227182-9a530166-182b-4011-8bce-3f375c5d10e6.png)
