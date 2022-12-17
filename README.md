@@ -1,4 +1,4 @@
-# todo_app_restapi
+## todo_app_restapi
 
 To Do Application in flutter
 
@@ -8,31 +8,12 @@ The project is based on CRUD where we can create todo list ,add todo, delete tod
 
 Here are some ScreenShots From the application
 
+## Todo Application List
 
-![todo list](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png | width = 100)
-
-![add todo](https://user-images.githubusercontent.com/49728395/208227170-9480f949-1caa-45b1-97d8-de23f11874ff.png | width = 100)
-
-![popup button](https://user-images.githubusercontent.com/49728395/208227178-8ba5f6aa-4568-42ba-88cd-318a6cbd3d28.png | width = 100)
-
-![edit todo](https://user-images.githubusercontent.com/49728395/208227182-9a530166-182b-4011-8bce-3f375c5d10e6.png | width = 100)
-
-
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png)">
-</p>
-
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="[[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png](https://user-images.githubusercontent.com/49728395/208227170-9480f949-1caa-45b1-97d8-de23f11874ff.png))">
-</p>
-
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="[[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png](https://user-images.githubusercontent.com/49728395/208227178-8ba5f6aa-4568-42ba-88cd-318a6cbd3d28.png))">
-</p>
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="[[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/49728395/208227150-3e9ebdd6-e45a-47fe-bbf7-2644b4d0f976.png](https://user-images.githubusercontent.com/49728395/208227182-9a530166-182b-4011-8bce-3f375c5d10e6.png))">
-</p>
+<img src="https://user-images.githubusercontent.com/49728395/208229606-28bd64f3-d16c-4343-8d28-1b6512ffe9f0.png" width=30% height=30%>
+## Add Todo
+<img src="https://user-images.githubusercontent.com/49728395/208229623-5419a340-137f-4a91-adbe-cedbb3c106ac.png" width=30% height=30%>
+## Popup Button 
+<img src="https://user-images.githubusercontent.com/49728395/208229630-2e4bdfe0-3656-477c-a99c-7b9253f4b718.png" width=30% height=30%>
+## Update Todo
+<img src="https://user-images.githubusercontent.com/49728395/208229635-ed5b0ba5-b45a-468e-a89c-1eac0ec5fa5b.png" width=30% height=30%%>
